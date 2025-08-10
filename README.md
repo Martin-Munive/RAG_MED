@@ -1,7 +1,5 @@
-# RAG_MED
+# RAG for Semantic Analysis of Clinical Texts
 Implementation of a Retrieval-Augmented Generation (RAG) system in Google Colab for semantic analysis of clinical texts.
-
-# RAG for Semantic Analysis of Clinical and Anatomical Texts
 
 **Autores:** [Martín Munive], [Cristian Henao].
 **Artículo de Referencia:** [Publicación pendiente.]
