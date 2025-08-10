@@ -48,7 +48,7 @@ Si utilizas este código o metodología en tu investigación, por favor, cita nu
 [Publicación pendiente].
 
 ```bibtex
-@software{tu_apellido_2025_rag,
+@software{Munive_2025_rag,
   author = {[Tu Nombre Completo]},
   title = {{RAG for Semantic Analysis of Clinical and Anatomical Texts}},
   month = {aug},
