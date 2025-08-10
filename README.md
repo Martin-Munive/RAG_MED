@@ -7,7 +7,7 @@ Implementation of a Retrieval-Augmented Generation (RAG) system in Google Colab 
 
 ## Resumen
 
-Este repositorio contiene el código y la metodología para un sistema de Generación Aumentada por Recuperación (RAG) implementado en Google Colab. El sistema está diseñado para realizar búsquedas semánticas y análisis de contenido en documentos densos, como guías de práctica clínica o libros de texto de anatomía.
+Este repositorio contiene el código y la metodología para un sistema de Generación Aumentada por Recuperación (RAG) implementado en Google Colab. El sistema está diseñado para realizar búsquedas semánticas y análisis de contenido en documentos densos, como guías de práctica clínica.
 
 ## Cómo Funciona
 
