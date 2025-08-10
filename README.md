@@ -32,7 +32,7 @@ Para replicar este análisis, sigue estos pasos:
 
 3.  **Configura los Datos:**
     *   Crea una carpeta llamada `RAG_MED-001_DB` en la raíz de tu Google Drive.
-    *   **Importante:** Este repositorio no distribuye el material protegido por derechos de autor. Debes obtener una copia del documento a analizar (p. ej., `Gross-Anatomy-The-Big-Picture.pdf`) y colocarla dentro de esta carpeta.
+    *   **Importante:** Este repositorio no distribuye el material protegido por derechos de autor. Debes obtener una copia del documento a analizar y colocarla dentro de esta carpeta.
 
 4.  **Configura la API Key:**
     *   En Google Colab, haz clic en el ícono de la llave (🔑) en la barra lateral.
